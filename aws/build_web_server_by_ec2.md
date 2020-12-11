@@ -49,4 +49,4 @@
 - apach起動
   - service httpd start
 - パブリックipにアクセスするとindex.htmlの内容が確認できる
-![Hello World](../image/hello_world.png)
+![Hello World](../image/hello_world1.png)
